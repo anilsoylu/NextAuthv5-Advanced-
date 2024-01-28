@@ -43,7 +43,7 @@ Node version 18.7.x
 
 ### Cloning the repository
 
-    https://github.com/anilsoylu/next-auth-v5-advanced-guide.git
+    git clone https://github.com/anilsoylu/next-auth-v5-advanced-guide.git
 
 ### Install packages
 
@@ -82,4 +82,4 @@ Running commands with npm `npm run [command]`
 | command | description                              |
 | ------- | ---------------------------------------- |
 | `dev`   | Starts a development instance of the app |
-|  |
+|         |
