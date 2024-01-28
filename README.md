@@ -43,11 +43,11 @@ Node version 18.7.x
 
 ### Cloning the repository
 
-`https://github.com/anilsoylu/next-auth-v5-advanced-guide.git`
+    https://github.com/anilsoylu/next-auth-v5-advanced-guide.git
 
 ### Install packages
 
-`npm i`
+    npm i
 
 ### Setup .env file
 
