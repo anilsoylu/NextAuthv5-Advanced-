@@ -65,6 +65,7 @@ Node version 18.7.x
     RESEND_API_KEY=
 
     NEXT_PUBLIC_APP_URL=
+    NEXT_PUBLIC_MAIL_ADDRESS=
 
 ### Setup Prisma
 
